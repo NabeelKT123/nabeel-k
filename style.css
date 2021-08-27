@@ -1,0 +1,51 @@
+h1{
+	font-family: Montserrat;
+	text-align: center;
+	background-color:red;
+	color: white;
+	padding: 20px
+}
+hr{
+	border: 3px solid green;
+}
+p{
+	margin-left: 50px;
+	margin-right: 50px;
+}
+img {
+  border-radius: 8px;
+}
+.special_para{
+	font-size: 20px
+}
+#this_one_is_special{
+	color: blue;
+}
+img.center {
+    display: block;
+    margin: 0 auto;
+}
+header{
+	background-color: orange;
+	text-align: center;
+}
+ul{
+	list-style: none;
+}
+li{
+	display: inline;
+	margin: 80px;
+}
+li a{
+	color: white;
+	text-decoration: none
+}
+li a:hover{
+	color: red;
+}
+footer{
+	text-align: center;
+	background-color: red;
+	color: black;
+	padding: 4px;
+}
